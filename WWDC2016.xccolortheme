@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>SFMono-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.4 0.85098 0.937255 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>SFMono-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.121569 0.129412 0.156863 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -35,7 +35,7 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.283049 0.286369 0.266453 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>Menlo-Regular - 10.0</string>
+	<string>SFMono-Regular - 10.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.976471 0.972549 0.960784 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
@@ -45,23 +45,23 @@
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.682353 0.505882 1 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.976471 0.972549 0.960784 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.976471 0.972549 0.960784 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNSText-Regular - 14.0</string>
+	<string>.SFNSText - 14.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.976471 0.972549 0.960784 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNSDisplay-Regular - 24.0</string>
+	<string>.SFNSDisplay - 24.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.976471 0.972549 0.960784 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNSText-Regular - 18.0</string>
+	<string>.SFNSText - 18.0</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.976471 0.972549 0.960784 1</string>
 	<key>DVTMarkupTextStrongFont</key>
@@ -70,6 +70,8 @@
 	<string>0.121569 0.129412 0.156863 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.341177 0.347059 0.367647 0.786497</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -128,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Monoisome-Regular - 10.0</string>
+		<string>Monoid-Retina - 10.0</string>
 	</dict>
 </dict>
 </plist>
